@@ -1,4 +1,4 @@
-# spotify-clone
+# vue-scroll-load
 
 ## Project setup
 ```
